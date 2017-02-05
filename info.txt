@@ -1,0 +1,4 @@
+1. указать параметры БД в application.properties
+2. настроить config.properties
+3. в указанные в файле config.properties папки разместить файлы yml
+2. импортировать БД из папки sql
